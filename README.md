@@ -3,7 +3,7 @@
 🎓 Computer Engineering graduate from **Yeditepe University (2025)**  
 💻 Passionate about **Back-end, Front-end, Mobile Development, AI & Embedded Systems**  
 🌱 Currently exploring **Node.js, React Native, and Machine Learning**  
-📫 Reach me at: [cankarademir74@gmail.com](mailto:cankarademir74@gmail.com) • [LinkedIn](#)
+📫 Reach me at: [cankarademir74@gmail.com](mailto:cankarademir74@gmail.com) • [LinkedIn](https://www.linkedin.com/in/can-karademir-6174812b8/)
 
 ---
 
