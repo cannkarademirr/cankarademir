@@ -22,7 +22,7 @@
   *Technologies:* React, Node.js, MongoDB  
   *GitHub link coming soon.*
 
-- 🐶 **Smart Pet Trainer (Bitirme Projesi)**  
+- 🐶 **Smart Pet Trainer**  
   A device that monitors a pet's in-home behavior and rewards them automatically based on correct toilet usage.  
   Features:
   - On-device real-time AI detection using YOLOv11 (3 different custom models)
