@@ -73,11 +73,6 @@ An **AI-powered IoT device** that rewards pets for correct toilet behavior.
 
 ---
 
-## 🔖 Motto
-“Code with purpose, learn with passion, and always leave your mark.”  
-
----
-
 ## 🌐 Let’s Connect
 - [LinkedIn](#)  
 - [Email](mailto:cankarademir74@gmail.com)  
